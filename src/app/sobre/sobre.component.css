@@ -1,0 +1,19 @@
+.sobre-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h2 {
+    color: #4CAF50; /* Verde para combinar com o tema vegano */
+  }
+  
+  p, li {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
