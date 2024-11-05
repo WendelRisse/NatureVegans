@@ -1,0 +1,6 @@
+<h2>Receitas Veganas</h2>
+<div *ngFor="let receita of receitas">
+   <h3>{{ receita.nome }}</h3>
+   <p><strong>Ingredientes:</strong> {{ receita.ingredientes }}</p>
+   <p><strong>Modo de Preparo:</strong> {{ receita.preparo }}</p>
+</div>
